@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<mueble>
+    <codigo>202</codigo>
+    <tipo>Mobiliario</tipo>
+    <nombre>Arm. Extraible</nombre>
+    <descripcion>Armario alm. extraible y cajón</descripcion>
+    <precio>154</precio> <!-- en euros !-->
+    <foto>bajo02.gif</foto>
+    <altura>86</altura> <!-- en centimetros !-->
+    <anchura>40</anchura> <!-- en centimetros !-->
+    <profundidad>60</profundidad> <!-- en centimetros !-->
+    <colorfondo>#AA7744</colorfondo>
+    <necesitaencimera/>
+    <puertas>1</puertas>
+    <tiradores>2</tiradores>
+    <dibujarpuerta/>
+</mueble>

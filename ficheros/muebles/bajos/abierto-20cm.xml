@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<mueble>
+    <codigo>215</codigo>
+    <tipo>De suelo</tipo>
+    <nombre>20cm, 1estante</nombre>
+    <descripcion>Abierto, 1estante, 20cm</descripcion>
+    <precio>59</precio> <!-- en euros !-->
+    <foto>abierto-20cm.png</foto>
+    <altura>86</altura> <!-- en centimetros !-->
+    <anchura>20</anchura> <!-- en centimetros !-->
+    <profundidad>60</profundidad> <!-- en centimetros !-->
+    <colorfondo>#AA7744</colorfondo>
+    <necesitaencimera/>
+    <puertas>0</puertas>
+    <tiradores>0</tiradores>
+</mueble>

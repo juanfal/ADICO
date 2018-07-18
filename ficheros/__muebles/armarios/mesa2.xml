@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+    Document   : mesa2.xml
+    Created on : 15 de abril de 2008, 17:23
+    Author     : kans
+    Description:
+        Purpose of the document follows.
+-->
+
+<mueble>
+    <codigo>54</codigo>
+    <tipo>Mobiliario</tipo>
+    <nombre>Mesa</nombre>
+    <descripcion>Mesa pequeña de madera</descripcion>
+    <precio>80</precio> <!-- en euros !-->
+    <foto>mesa2.gif</foto>
+    <altura>60</altura> <!-- en centimetros !-->
+    <anchura>70</anchura> <!-- en centimetros !-->
+    <profundidad>40</profundidad> <!-- en centimetros !-->
+</mueble>

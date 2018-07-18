@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<madera>
+    <codigo>808</codigo>
+    <tipo>Chapado</tipo>
+    <nombre>Tablero Capri</nombre>
+    <descripcion>Chapado Roble Color Natural</descripcion>
+    <precio>29</precio> <!-- en euros !-->
+    <foto>madera08.gif</foto>
+</madera>

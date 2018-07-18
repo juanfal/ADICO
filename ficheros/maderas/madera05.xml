@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<madera>
+    <codigo>805</codigo>
+    <tipo>Chapado</tipo>
+    <nombre>Tablero Artic</nombre>
+    <descripcion>Chapado Haya Color Cerezo</descripcion>
+    <precio>23</precio> <!-- en euros !-->
+    <foto>madera05.gif</foto>
+</madera>

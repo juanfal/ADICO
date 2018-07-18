@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<madera>
+    <codigo>806</codigo>
+    <tipo>Chapado</tipo>
+    <nombre>Tablero Artic</nombre>
+    <descripcion>Chapado Haya Color Avellana</descripcion>
+    <precio>21</precio> <!-- en euros !-->
+    <foto>madera06.gif</foto>
+</madera>

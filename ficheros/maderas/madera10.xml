@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<madera>
+    <codigo>810</codigo>
+    <tipo>Lacado</tipo>
+    <nombre>Tablero Iris Capilla</nombre>
+    <descripcion>Lacado Color Pistacho</descripcion>
+    <precio>16</precio> <!-- en euros !-->
+    <foto>madera10.gif</foto>
+</madera>

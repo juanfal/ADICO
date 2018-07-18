@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<mueble>
+    <codigo>208</codigo>
+    <tipo>Mobiliario</tipo>
+    <nombre>Fregadero</nombre>
+    <descripcion>Armario Fregadero 80cm</descripcion>
+    <precio>194</precio> <!-- en euros !-->
+    <foto>bajo08.gif</foto>
+    <dibujo>fregadero.gif</dibujo>
+    <altura>86</altura> <!-- en centimetros !-->
+    <anchura>80</anchura> <!-- en centimetros !-->
+    <profundidad>60</profundidad> <!-- en centimetros !-->
+    <colorfondo>#AA7744</colorfondo>
+    <puertas>2</puertas>
+    <tiradores>2</tiradores>
+    <!-- <dibujarpuerta/> !-->
+</mueble>

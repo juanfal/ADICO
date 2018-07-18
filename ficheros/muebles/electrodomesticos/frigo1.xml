@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+    Document   : nevera1.xml
+    Created on : 15 de abril de 2008, 17:23
+    Author     : kans
+    Description:
+        Purpose of the document follows.
+-->
+
+<mueble>
+    <codigo>840</codigo>
+    <tipo>(Electrodoméstico)</tipo>
+    <nombre>Frigo 80cm</nombre>
+    <descripcion>Frigo normal (2 puertas verticales)</descripcion>
+    <precio>380</precio> <!-- en euros !-->
+    <foto>frigo1.png</foto>
+    <dibujo>frigo1a.png</dibujo>
+    <altura>180</altura> <!-- en centimetros !-->
+    <anchura>80</anchura> <!-- en centimetros !-->
+    <profundidad>80</profundidad> <!-- en centimetros !-->
+</mueble>

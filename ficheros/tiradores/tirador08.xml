@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<encimera>
+    <codigo>908</codigo>
+    <tipo>Tirador</tipo>
+    <nombre>Tirador Acero</nombre>
+    <descripcion>Tirador de acero inoxidable</descripcion>
+    <precio>1.75</precio> <!-- en euros !-->
+    <foto>tirador08.gif</foto>
+</encimera>

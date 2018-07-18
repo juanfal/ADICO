@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<mueble>
+    <codigo>302</codigo>
+    <tipo>Pared</tipo>
+    <nombre>Vitrina 60cm</nombre>
+    <descripcion>Vitrina 60cm, 2 puertas</descripcion>
+    <precio>88</precio> <!-- en euros !-->
+    <foto>vitrina-60cm.png</foto>
+    <altura>70</altura> <!-- en centimetros !-->
+    <distancia>145</distancia> <!-- al suelo !-->
+    <anchura>60</anchura> <!-- en centimetros !-->
+    <profundidad>37</profundidad> <!-- en centimetros !-->
+    <colorfondo>#BB9922</colorfondo>
+    <colorborde>#CCFF44</colorborde>
+    <puertas>2</puertas>
+    <tiradores>2</tiradores>
+    <dibujarpuerta/>
+</mueble>

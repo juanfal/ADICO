@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<encimera>
+    <codigo>702</codigo>
+    <tipo>Granito</tipo>
+    <nombre>Encimera Rosa</nombre>
+    <descripcion>Encimera Rosa Porriño</descripcion>
+    <precio>200</precio> <!-- en euros y por metro !-->
+    <foto>encimera02.gif</foto>
+</encimera>

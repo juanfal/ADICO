@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<encimera>
+    <codigo>905</codigo>
+    <tipo>Tirador</tipo>
+    <nombre>Tirador Níquel</nombre>
+    <descripcion>Perilla de níquel</descripcion>
+    <precio>2</precio> <!-- en euros !-->
+    <foto>tirador05.gif</foto>
+</encimera>

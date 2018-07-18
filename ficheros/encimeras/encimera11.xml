@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<encimera>
+    <codigo>711</codigo>
+    <tipo>Cuarzo</tipo>
+    <nombre>Encimera Gea</nombre>
+    <descripcion>Encimera de cuarzo Amarillo Gea</descripcion>
+    <precio>310</precio> <!-- en euros y por metro !-->
+    <foto>encimera11.gif</foto>
+</encimera>

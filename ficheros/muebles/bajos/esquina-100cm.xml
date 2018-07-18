@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<mueble>
+    <codigo>210</codigo>
+    <tipo>De suelo</tipo>
+    <nombre>Esquinera 100cm</nombre>
+    <descripcion>Armario esquina 100cm, acc.extraibles</descripcion>
+    <precio>142</precio> <!-- en euros !-->
+    <foto>esquina-100cm.png</foto>
+    <altura>86</altura> <!-- en centimetros !-->
+    <anchura>100</anchura> <!-- en centimetros !-->
+    <profundidad>60</profundidad> <!-- en centimetros !-->
+    <colorfondo>#AA7744</colorfondo>
+    <necesitaencimera/>
+    <puertas>1</puertas>
+    <tiradores>1</tiradores>
+</mueble>

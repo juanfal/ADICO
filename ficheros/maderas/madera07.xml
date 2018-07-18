@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<madera>
+    <codigo>807</codigo>
+    <tipo>Chapado</tipo>
+    <nombre>Tablero Artic</nombre>
+    <descripcion>Chapado Cerezo Color Tabaco</descripcion>
+    <precio>26</precio> <!-- en euros !-->
+    <foto>madera07.gif</foto>
+</madera>

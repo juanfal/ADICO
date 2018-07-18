@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<puerta>
+    <tipo>Puerta típica de 70cm</tipo>
+    <nombre>Puerta </nombre>
+    <!--<descripcion>Cholguán liso</descripcion>!-->
+    <foto>puerta01.gif</foto>
+    <altura>190</altura> <!-- en centimetros !-->
+    <anchura>70</anchura> <!-- en centimetros !-->
+</puerta>

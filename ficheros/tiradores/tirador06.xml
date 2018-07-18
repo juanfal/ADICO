@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<encimera>
+    <codigo>906</codigo>
+    <tipo>Tirador</tipo>
+    <nombre>Tirador Porcelana</nombre>
+    <descripcion>Perilla de porcelana blanca</descripcion>
+    <precio>1.32</precio> <!-- en euros !-->
+    <foto>tirador06.gif</foto>
+</encimera>

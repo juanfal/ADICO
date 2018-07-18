@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<mueble>
+    <codigo>208</codigo>
+    <tipo>De suelo</tipo>
+    <nombre>Fregadero 60cm</nombre>
+    <descripcion>Fregadero 60cm, con 2 cajones</descripcion>
+    <precio>150</precio> <!-- en euros !-->
+    <foto>_frega-60cm-2cj.png</foto>
+    <dibujo>fregadero.gif</dibujo>
+    <altura>86</altura> <!-- en centimetros !-->
+    <anchura>60</anchura> <!-- en centimetros !-->
+    <profundidad>60</profundidad> <!-- en centimetros !-->
+    <colorfondo>#AA7744</colorfondo>
+    <puertas>2</puertas>
+    <tiradores>2</tiradores>
+    <!-- <dibujarpuerta/> !-->
+</mueble>

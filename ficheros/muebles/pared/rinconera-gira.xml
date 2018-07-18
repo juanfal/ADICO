@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<mueble>
+    <codigo>330</codigo>
+    <tipo>Pared</tipo>
+    <nombre>Rincon.Gira.</nombre>
+    <descripcion>Rinconera giratoria 80cm</descripcion>
+    <precio>49</precio> <!-- en euros !-->
+    <foto>rinconera-gira.png</foto>
+    <altura>70</altura> <!-- en centimetros !-->
+    <distancia>145</distancia> <!-- al suelo !-->
+    <anchura>80</anchura> <!-- en centimetros !-->
+    <profundidad>37</profundidad> <!-- en centimetros !-->
+    <colorfondo>#BB9922</colorfondo>
+    <colorborde>#CCFF44</colorborde>
+    <rinconera/>
+    <puertas>1</puertas>
+    <tiradores>1</tiradores>
+    <dibujarpuerta/>
+</mueble>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<mueble>
+    <codigo>401</codigo>
+    <tipo>Mobiliario</tipo>
+    <nombre>Ejemplo</nombre>
+    <descripcion>Descripción</descripcion>
+    <precio>100</precio> <!-- en euros !-->
+    <foto>ejemplo.gif</foto>
+    <altura>86</altura> <!-- en centimetros !-->
+    <anchura>40</anchura> <!-- en centimetros !-->
+    <profundidad>60</profundidad> <!-- en centimetros !-->
+    <colorfondo>#999999</colorfondo>
+</mueble>

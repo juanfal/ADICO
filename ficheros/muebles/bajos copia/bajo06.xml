@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<mueble>
+    <codigo>206</codigo>
+    <tipo>Mobiliario</tipo>
+    <nombre>Armario esquina</nombre>
+    <descripcion>Armario esquina, balda</descripcion>
+    <precio>142</precio> <!-- en euros !-->
+    <foto>bajo06.gif</foto>
+    <altura>86</altura> <!-- en centimetros !-->
+    <anchura>120</anchura> <!-- en centimetros !-->
+    <profundidad>60</profundidad> <!-- en centimetros !-->
+    <colorfondo>#AA7744</colorfondo>
+    <necesitaencimera/>
+    <puertas>1</puertas>
+    <tiradores>1</tiradores>
+</mueble>

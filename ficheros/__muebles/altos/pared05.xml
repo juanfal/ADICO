@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<mueble>
+    <codigo>308</codigo>
+    <tipo>Mobiliario</tipo>
+    <nombre>Arm. rinconera</nombre>
+    <descripcion>Armario rinconera</descripcion>
+    <precio>128</precio> <!-- en euros !-->
+    <foto>pared05.gif</foto>
+    <altura>70</altura> <!-- en centimetros !-->
+    <distancia>145</distancia> <!-- al suelo !-->
+    <anchura>90</anchura> <!-- en centimetros !-->
+    <profundidad>37</profundidad> <!-- en centimetros !-->
+    <colorfondo>#BB9922</colorfondo>
+    <colorborde>#CCFF44</colorborde>
+    <rinconera/>
+    <puertas>2</puertas>
+    <tiradores>2</tiradores>
+    <dibujarpuerta/>
+</mueble>

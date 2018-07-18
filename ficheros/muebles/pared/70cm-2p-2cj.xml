@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<mueble>
+    <codigo>311</codigo>
+    <tipo>Pared</tipo>
+    <nombre>70cm 2p 2cj</nombre>
+    <descripcion>Mueble 70cm, 2puertas, 2cajones</descripcion>
+    <precio>49</precio> <!-- en euros !-->
+    <foto>70cm-2p-2cj.png</foto>
+    <altura>70</altura> <!-- en centimetros !-->
+    <distancia>145</distancia> <!-- al suelo !-->
+    <anchura>70</anchura> <!-- en centimetros !-->
+    <profundidad>37</profundidad> <!-- en centimetros !-->
+    <colorfondo>#BB9922</colorfondo>
+    <colorborde>#CCFF44</colorborde>
+    <puertas>4</puertas>
+    <tiradores>4</tiradores>
+    <dibujarpuerta/>
+</mueble>

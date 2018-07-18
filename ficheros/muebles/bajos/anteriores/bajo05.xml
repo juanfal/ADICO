@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<mueble>
+    <codigo>205</codigo>
+    <tipo>Mobiliario</tipo>
+    <nombre>Armario baldas</nombre>
+    <descripcion>Arm. baldas 2 puertas 60cm</descripcion>
+    <precio>105</precio> <!-- en euros !-->
+    <foto>bajo05.gif</foto>
+    <altura>86</altura> <!-- en centimetros !-->
+    <anchura>60</anchura> <!-- en centimetros !-->
+    <profundidad>60</profundidad> <!-- en centimetros !-->
+    <colorfondo>#AA7744</colorfondo>
+    <necesitaencimera/>
+    <puertas>2</puertas>
+    <tiradores>2</tiradores>
+    <dibujarpuerta/>
+</mueble>

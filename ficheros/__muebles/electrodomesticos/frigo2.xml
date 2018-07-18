@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+    Document   : nevera1.xml
+    Created on : 15 de abril de 2008, 17:23
+    Author     : kans
+    Description:
+        Purpose of the document follows.
+-->
+
+<mueble>
+    <codigo>841</codigo>
+    <tipo>(Electrodoméstico)</tipo>
+    <nombre>Neverita baja</nombre>
+    <descripcion>Frigo bajo (solo 60cm alto) </descripcion>
+    <precio>145</precio> <!-- en euros !-->
+    <foto>frigo2-bajo.png</foto>
+    <dibujo>frigo2a.png</dibujo>
+    <altura>60</altura> <!-- en centimetros !-->
+    <anchura>80</anchura> <!-- en centimetros !-->
+    <profundidad>80</profundidad> <!-- en centimetros !-->
+</mueble>

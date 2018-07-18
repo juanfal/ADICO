@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+    Document   : mesa1.xml
+    Created on : 15 de abril de 2008, 17:23
+    Author     : kans
+    Description:
+        Purpose of the document follows.
+-->
+
+<mueble>
+    <codigo>323</codigo>
+    <tipo>Mobiliario</tipo>
+    <nombre>Mesa</nombre>
+    <descripcion>Mesa grande de madera</descripcion>
+    <precio>90</precio> <!-- en euros !-->
+    <foto>mesa1.gif</foto>
+<!--    <dibujo>mesa1.gif</dibujo> !-->
+    <altura>60</altura> <!-- en centimetros !-->
+    <anchura>90</anchura> <!-- en centimetros !-->
+    <profundidad>70</profundidad> <!-- en centimetros !-->
+</mueble>

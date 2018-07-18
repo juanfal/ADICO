@@ -1,0 +1,14 @@
+AYUDA DE ADICO IGO
+
+Este es el fichero de ayuda de la aplicación AdicoIgo.
+Aquí han de ir las instrucciones de uso de la metodología IGO
+que aparecerán en la pantalla inicial.
+Complete el fichero con las instrucciones reales.
+
+El directorio de estos ficheros es: <font color=#009900>AdicoIgo/ayuda/</font>
+
+En primer lugar se buscará si existe el fichero: <font color=#000099>imagen.gif</font> (en minúsculas)
+y en tal caso se cargará dicha imagen.
+
+Sino, se cargará el texto contenido en el fichero: <font color=#000099>texto.txt</font> (en minúsculas)
+Dicho texto acepta formato HTML básico.

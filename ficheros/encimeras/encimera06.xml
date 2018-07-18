@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<encimera>
+    <codigo>706</codigo>
+    <tipo>Cuarzo</tipo>
+    <nombre>Encimera Moka</nombre>
+    <descripcion>Encimera de cuarzo Moka</descripcion>
+    <precio>190</precio> <!-- en euros y por metro !-->
+    <foto>encimera06.gif</foto>
+</encimera>

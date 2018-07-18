@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<mueble>
+    <codigo>214</codigo>
+    <tipo>De suelo</tipo>
+    <nombre>20cm, 1puerta</nombre>
+    <descripcion>Arm.1 puerta, 20cm, 3 baldas</descripcion>
+    <precio>59</precio> <!-- en euros !-->
+    <foto>1p-20cm.png</foto>
+    <altura>86</altura> <!-- en centimetros !-->
+    <anchura>20</anchura> <!-- en centimetros !-->
+    <profundidad>60</profundidad> <!-- en centimetros !-->
+    <colorfondo>#AA7744</colorfondo>
+    <necesitaencimera/>
+    <puertas>1</puertas>
+    <tiradores>1</tiradores>
+    <dibujarpuerta/>
+</mueble>

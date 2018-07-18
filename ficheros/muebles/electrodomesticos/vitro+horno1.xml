@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+    Document   : vitroceramica1.xml
+    Created on : 15 de abril de 2008, 17:23
+    Author     : kans
+    Description:
+        Purpose of the document follows.
+-->
+
+<mueble>
+    <codigo>848</codigo>
+    <tipo>(Electrodoméstico)</tipo>
+    <nombre>Vitro+Horno</nombre>
+    <descripcion>Vitroceramica 4 fuegos + Horno</descripcion>
+    <precio>290</precio> <!-- en euros !-->
+    <foto>vitro+horno1.png</foto>
+    <dibujo>vitro+horno1a.png</dibujo>
+    <altura>86</altura> <!-- en centimetros !-->
+    <anchura>90</anchura> <!-- en centimetros !-->
+    <profundidad>60</profundidad> <!-- en centimetros !-->
+</mueble>

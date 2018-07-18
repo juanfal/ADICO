@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<encimera>
+    <codigo>705</codigo>
+    <tipo>Cuarzo</tipo>
+    <nombre>Encimera Spring</nombre>
+    <descripcion>Encimera de cuarzo Spring</descripcion>
+    <precio>220</precio> <!-- en euros y por metro !-->
+    <foto>encimera05.gif</foto>
+</encimera>

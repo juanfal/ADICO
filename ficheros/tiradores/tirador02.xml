@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<encimera>
+    <codigo>902</codigo>
+    <tipo>Tirador</tipo>
+    <nombre>Tirador Básico</nombre>
+    <descripcion>Perilla de aluminio</descripcion>
+    <precio>1.47</precio> <!-- en euros !-->
+    <foto>tirador02.gif</foto>
+</encimera>

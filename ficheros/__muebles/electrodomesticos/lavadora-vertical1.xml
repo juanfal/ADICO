@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+    Document   : vitroceramica1.xml
+    Created on : 15 de abril de 2008, 17:23
+    Author     : kans
+    Description:
+        Purpose of the document follows.
+-->
+
+<mueble>
+    <codigo>822</codigo>
+    <tipo>(Electrodoméstico)</tipo>
+    <nombre>Lavadora vertical</nombre>
+    <descripcion>Lavadora con carga superior</descripcion>
+    <precio>180</precio> <!-- en euros !-->
+    <foto>lavadora-vertical1.png</foto>
+    <dibujo>lavadora-vertical1a.png</dibujo>
+    <altura>60</altura> <!-- en centimetros !-->
+    <anchura>60</anchura> <!-- en centimetros !-->
+    <profundidad>60</profundidad> <!-- en centimetros !-->
+</mueble>

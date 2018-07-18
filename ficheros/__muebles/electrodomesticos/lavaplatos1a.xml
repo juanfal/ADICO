@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+    Document   : vitroceramica1.xml
+    Created on : 15 de abril de 2008, 17:23
+    Author     : kans
+    Description:
+        Purpose of the document follows.
+-->
+
+<mueble>
+    <codigo>823</codigo>
+    <tipo>(Electrodoméstico)</tipo>
+    <nombre>Lavaplatos</nombre>
+    <descripcion>Lavaplatos de 2 bandejas</descripcion>
+    <precio>180</precio> <!-- en euros !-->
+    <foto>lavaplatos1.png</foto>
+    <dibujo>lavaplatos1a.png</dibujo>
+    <altura>60</altura> <!-- en centimetros !-->
+    <anchura>70</anchura> <!-- en centimetros !-->
+    <profundidad>60</profundidad> <!-- en centimetros !-->
+</mueble>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<puerta>
+    <tipo>Puerta vidriada de 70cm</tipo>
+    <nombre>Puerta </nombre>
+    <!--<descripcion>Pino Llifén 1/2 cuerpo</descripcion>!-->
+    <foto>puerta05.gif</foto>
+    <altura>190</altura> <!-- en centimetros !-->
+    <anchura>70</anchura> <!-- en centimetros !-->
+</puerta>

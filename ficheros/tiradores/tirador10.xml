@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<encimera>
+    <codigo>910</codigo>
+    <tipo>Tirador</tipo>
+    <nombre>Tirador Barra</nombre>
+    <descripcion>Tirador con forma de barra</descripcion>
+    <precio>1.60</precio> <!-- en euros !-->
+    <foto>tirador10.gif</foto>
+</encimera>

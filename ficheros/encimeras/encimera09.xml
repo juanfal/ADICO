@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<encimera>
+    <codigo>709</codigo>
+    <tipo>Cuarzo</tipo>
+    <nombre>Encimera Capri</nombre>
+    <descripcion>Encimera de cuarzo Blanco Capri</descripcion>
+    <precio>230</precio> <!-- en euros y por metro !-->
+    <foto>encimera09.gif</foto>
+</encimera>

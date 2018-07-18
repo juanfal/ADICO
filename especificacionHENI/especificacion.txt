@@ -1,0 +1,182 @@
+Method for: Diseñar cocina
+    step 1. Accomplish: Dibujar plano
+    step 2. Accomplish: Amueblar
+    step 3. decide: If ¿Hacer otro diseño? then goto 1
+    step 4. Accomplish: Encargar cocina
+    step 5. Return with goal accomplished
+
+Method for: Amueblar
+    Cancel
+    step 1. init: Muebles/Electrodomésticos
+    step 2. decide: If ¿Más tareas? then goto 1
+    step 3. Confirmar mobiliario  
+    step 4. init: Elegir materiales
+            disable if (elegirmateriales == false)
+    step 5. decide: If ¿Modificar presupuesto? then goto 1
+    step 6. Confirmar presupuesto  
+    step 7. Return with goal accomplished
+
+Method for: Borrar mueble
+    Cancel
+    step 1. Pinche mueble a borrar  
+    step 2. Confirmar el borrado  
+    step 3. Return with goal accomplished
+
+Method for: Colocar puertas y ventanas
+    Cancel
+    step 1. init: Puertas y ventanas
+    step 2. decide: If ¿Más cambios? then goto 1
+    step 3. Return with goal accomplished
+
+Method for: Desplazar
+    Cancel
+    step 1. Pinche un objeto  
+    step 2. Pinche su nuevo lugar  
+    step 3. Return with goal accomplished
+
+Method for: Desplazar muebles
+    Cancel
+    step 1. Pinche el mueble  
+    step 2. Pinche su nuevo lugar  
+    step 3. Return with goal accomplished
+
+Method for: Dibujar plano
+    Cancel
+    step 1. init: Elegir forma
+    step 2. init: Seleccion del sistema para Introducir medidas
+    step 3. init: Colocar puertas y ventanas
+    step 4. Return with goal accomplished
+
+Method for: Elegir forma
+    step 1. Pinche una forma  
+    step 2. decide: If ¿Cambiar forma? then goto 1
+    step 3. Return with goal accomplished
+
+Method for: Elegir materiales
+    Cancel
+    step 1. Pinche una encimera  
+            disable if (encimera == false)
+    step 2. Pinche una madera  
+            disable if (puertasmuebles == false)
+    step 3. Pinche un tirador  
+            disable if (tiradoresmuebles == false)
+    step 4. Return with goal accomplished
+
+Selection for: Elegir tipo de mueble
+    Cancel
+    If Muebles bajos then init 
+            effect (return == true)
+    If Muebles de pared then init 
+            effect (return == true)
+    If Electrodomésticos then init 
+            effect (return == true)
+    If Otro mobiliario then init 
+            effect (return == true)
+Return with goal accomplished
+
+Method for: Girar muebles
+    Cancel
+    step 1. Pinche el mueble  
+    step 2. Girar 90 grados  
+    step 3. decide: If ¿Realizar otro giro? then goto 2
+    step 4. Continuar  
+    step 5. Pinche su nuevo lugar  
+    step 6. Return with goal accomplished
+
+Method for: Introducir medidas (2)
+    Cancel
+    step 1. Lado A  
+    step 2. Lado B  
+    step 3. decide: If ¿Corregir medidas? then goto 1
+    step 4. Return with goal accomplished
+
+Method for: Introducir medidas (4)
+    Cancel
+    step 1. Lado A  
+    step 2. Lado B  
+    step 3. Lado C  
+    step 4. Lado D  
+    step 5. decide: If ¿Corregir medidas? then goto 1
+    step 6. Return with goal accomplished
+
+Selection for: Muebles/Electrodomésticos
+    If Poner then init Poner Muebles
+    If Quitar then init Borrar mueble
+            disable if (muebles == false)
+    If Vaciar cocina then init Vaciar cocina
+            disable if (muebles == false)
+    If Desplazar then init Desplazar muebles
+            disable if (muebles == false)
+    If Girar then init Girar muebles
+            disable if (muebles == false)
+    If Elegir materiales then init Elegir materiales
+            disable if (sumamateriales == false)
+    If Ver en 3D then init Ver en 3D
+    If Ver presupuesto then init Ver presupuesto
+            disable if (muebles == false)
+    If Hecho then init 
+            disable if (muebles == false)
+            effect (return == true)
+Return with goal accomplished
+
+Method for: Poner Muebles
+    Cancel
+    step 1. init: Poner un mueble
+    step 2. decide: If ¿Poner otro mueble? then goto 1
+    step 3. Return with goal accomplished
+
+Method for: Poner puerta/ventana
+    Cancel
+    step 1. Pinche un objeto  
+    step 2. Pinche su lugar  
+    step 3. Return with goal accomplished
+            effect (puertas == true)
+
+Method for: Poner un mueble
+    Cancel
+    step 1. init: Elegir tipo de mueble
+    step 2. Pinche un mueble  
+    step 3. Pinche su lugar  
+    step 4. Return with goal accomplished
+            effect (muebles == true)
+
+Selection for: Puertas y ventanas
+    If Poner puerta o ventana then init Poner puerta/ventana
+    If Quitar puerta o ventana then init Quitar puerta/ventana
+            disable if (puertas == false)
+    If Desplazar puerta o ventana then init Desplazar
+            disable if (puertas == false)
+    If Hecho then init 
+            disable if (puertas == false)
+            effect (return == true)
+    Return with goal accomplished
+
+Method for: Quitar puerta/ventana
+    Cancel
+    step 1. Pinche un objeto  
+    step 2. Confirmar el borrado  
+    step 3. Return with goal accomplisher
+
+Method for: Realizar pedido
+    step 1. Introduzca su nombre  
+    step 2. decide: If ¿Desea modificar los datos? then goto 1
+    step 3. Return with goal accomplisher
+
+Method for: Vaciar cocina
+    Cancel
+    step 1. Confirmar que desea quitar todos los muebles  
+    step 2. Return with goal accomplisher
+
+Method for: Ver en 3D
+    step 1. Girar  
+    step 2. decide: If ¿Girar más? then goto 1
+    step 3. Return with goal accomplisher
+
+Method for: Ver presupuesto
+    step 1. Return with goal accomplisher
+
+For the system > Selection for: Seleccion del sistema para Introducir medidas
+    If (forma == false) then init Introducir medidas (2)
+    If (forma == true) then init Introducir medidas (4)
+Return with goal accomplisher
+

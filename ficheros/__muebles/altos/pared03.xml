@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<mueble>
+    <codigo>305</codigo>
+    <tipo>Mobiliario</tipo>
+    <nombre>Arm. 2 puertas</nombre>
+    <descripcion>Armario de pared 60cm</descripcion>
+    <precio>68</precio> <!-- en euros !-->
+    <foto>pared03.gif</foto>
+    <altura>70</altura> <!-- en centimetros !-->
+    <distancia>145</distancia> <!-- al suelo !-->
+    <anchura>60</anchura> <!-- en centimetros !-->
+    <profundidad>37</profundidad> <!-- en centimetros !-->
+    <colorfondo>#BB9922</colorfondo>
+    <colorborde>#CCFF44</colorborde>
+    <puertas>2</puertas>
+    <tiradores>2</tiradores>
+    <dibujarpuerta/>
+</mueble>

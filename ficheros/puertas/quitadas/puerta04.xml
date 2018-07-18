@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<puerta>
+    <tipo>Puerta interior</tipo>
+    <nombre>Puerta</nombre>
+    <!--<descripcion>HDF prepintada blanca</descripcion>!-->
+    <foto>puerta04.gif</foto>
+    <altura>200</altura> <!-- en centimetros !-->
+    <anchura>70</anchura> <!-- en centimetros !-->
+</puerta>

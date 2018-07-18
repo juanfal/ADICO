@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<mueble>
+    <codigo>211</codigo>
+    <tipo>De suelo</tipo>
+    <nombre>40cm, 1estante</nombre>
+    <descripcion>Arm.abierto 1estante, 40cm</descripcion>
+    <precio>59</precio> <!-- en euros !-->
+    <foto>abierto-40cm.png</foto>
+    <altura>86</altura> <!-- en centimetros !-->
+    <anchura>40</anchura> <!-- en centimetros !-->
+    <profundidad>60</profundidad> <!-- en centimetros !-->
+    <colorfondo>#AA7744</colorfondo>
+    <necesitaencimera/>
+    <puertas>0</puertas>
+    <tiradores>0</tiradores>
+</mueble>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<encimera>
+    <codigo>710</codigo>
+    <tipo>Cuarzo</tipo>
+    <nombre>Encimera Norte</nombre>
+    <descripcion>Encimera de cuarzo Blanco Norte</descripcion>
+    <precio>215</precio> <!-- en euros y por metro !-->
+    <foto>encimera10.gif</foto>
+</encimera>

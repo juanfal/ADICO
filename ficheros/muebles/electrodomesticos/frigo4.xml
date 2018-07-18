@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+    Document   : nevera1.xml
+    Created on : 15 de abril de 2008, 17:23
+    Author     : kans
+    Description:
+        Purpose of the document follows.
+-->
+
+<mueble>
+    <codigo>843</codigo>
+    <tipo>(Electrodoméstico)</tipo>
+    <nombre>Frigo 120cm</nombre>
+    <descripcion>Frigorífico de 4 puertas</descripcion>
+    <precio>580</precio> <!-- en euros !-->
+    <foto>frigo4-4puertas.png</foto>
+    <dibujo>frigo4a.png</dibujo>
+    <altura>180</altura> <!-- en centimetros !-->
+    <anchura>120</anchura> <!-- en centimetros !-->
+    <profundidad>80</profundidad> <!-- en centimetros !-->
+</mueble>

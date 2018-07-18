@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<madera>
+    <codigo>804</codigo>
+    <tipo>Madera</tipo>
+    <nombre>Tablero Viena</nombre>
+    <descripcion>Madera Pino Color Nogal</descripcion>
+    <precio>32</precio> <!-- en euros !-->
+    <foto>madera04.gif</foto>
+</madera>

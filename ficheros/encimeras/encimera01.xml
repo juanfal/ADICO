@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<encimera>
+    <codigo>701</codigo>
+    <tipo>Granito</tipo>
+    <nombre>Encimera Oscura</nombre>
+    <descripcion>Encimera Labrador Oscuro</descripcion>
+    <precio>200</precio> <!-- en euros y por metro !-->
+    <foto>encimera01.gif</foto>
+</encimera>

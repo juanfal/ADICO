@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+    Document   : campana1.xml
+    Created on : 15 de abril de 2008, 17:23
+    Author     : kans
+    Description:
+        Purpose of the document follows.
+-->
+
+<mueble>
+    <codigo>391</codigo>
+    <tipo>(Electrodoméstico)</tipo>
+    <nombre>Campana metálica</nombre>
+    <descripcion>Campana extractora metálica</descripcion>
+    <precio>130</precio> <!-- en euros !-->
+    <foto>campana1.png</foto>
+    <dibujo>campana1a.png</dibujo>
+    <altura>55</altura> <!-- en centimetros !-->
+    <anchura>90</anchura> <!-- en centimetros !-->
+    <profundidad>45</profundidad> <!-- en centimetros !-->
+    <distancia>160</distancia> <!-- en centimetros !-->
+    <colorfondo>#666666</colorfondo>
+</mueble>

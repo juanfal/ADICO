@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<encimera>
+    <codigo>903</codigo>
+    <tipo>Tirador</tipo>
+    <nombre>Tirador Roble</nombre>
+    <descripcion>Perilla de roble inacabada</descripcion>
+    <precio>1.12</precio> <!-- en euros !-->
+    <foto>tirador03.gif</foto>
+</encimera>

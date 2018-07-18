@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<puerta>
+    <tipo>Puerta vidriada de 80cm</tipo>
+    <nombre>Puerta </nombre>
+    <!--<descripcion>Pino oregón aliwen</descripcion>!-->
+    <foto>puerta06.gif</foto>
+    <altura>190</altura> <!-- en centimetros !-->
+    <anchura>80</anchura> <!-- en centimetros !-->
+</puerta>

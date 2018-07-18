@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<mueble>
+    <codigo>201</codigo>
+    <tipo>Mobiliario</tipo>
+    <nombre>Armario cajones</nombre>
+    <descripcion>Armario 5 cajones 40cm</descripcion>
+    <precio>194</precio> <!-- en euros !-->
+    <foto>bajo01.jpg</foto>
+    <altura>86</altura> <!-- en centimetros !-->
+    <anchura>40</anchura> <!-- en centimetros !-->
+    <profundidad>60</profundidad> <!-- en centimetros !-->
+    <colorfondo>#AA7744</colorfondo>
+    <necesitaencimera/>
+    <puertas>1</puertas>
+    <tiradores>5</tiradores>
+    <dibujarpuerta/>
+</mueble>

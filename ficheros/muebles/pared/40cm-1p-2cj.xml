@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<mueble>
+    <codigo>310</codigo>
+    <tipo>Pared</tipo>
+    <nombre>40cm 1p 2cj</nombre>
+    <descripcion>Mueble 40cm, 1puerta, 2cajones</descripcion>
+    <precio>49</precio> <!-- en euros !-->
+    <foto>40cm-1p-2cj.png</foto>
+    <altura>70</altura> <!-- en centimetros !-->
+    <distancia>145</distancia> <!-- al suelo !-->
+    <anchura>40</anchura> <!-- en centimetros !-->
+    <profundidad>37</profundidad> <!-- en centimetros !-->
+    <colorfondo>#BB9922</colorfondo>
+    <colorborde>#CCFF44</colorborde>
+    <puertas>3</puertas>
+    <tiradores>3</tiradores>
+    <dibujarpuerta/>
+</mueble>

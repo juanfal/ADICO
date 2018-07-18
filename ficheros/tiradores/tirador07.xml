@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<encimera>
+    <codigo>907</codigo>
+    <tipo>Tirador</tipo>
+    <nombre>Tirador Aluminio</nombre>
+    <descripcion>Tirador de aluminio</descripcion>
+    <precio>4.01</precio> <!-- en euros !-->
+    <foto>tirador07.gif</foto>
+</encimera>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<encimera>
+    <codigo>707</codigo>
+    <tipo>Cuarzo</tipo>
+    <nombre>Encimera Azabache</nombre>
+    <descripcion>Encimera de cuarzo Azabache</descripcion>
+    <precio>245</precio> <!-- en euros y por metro !-->
+    <foto>encimera07.gif</foto>
+</encimera>

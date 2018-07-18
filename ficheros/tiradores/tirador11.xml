@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<encimera>
+    <codigo>911</codigo>
+    <tipo>Tirador</tipo>
+    <nombre>Tirador Peltre</nombre>
+    <descripcion>Tirador de peltre antiguo</descripcion>
+    <precio>4.44</precio> <!-- en euros !-->
+    <foto>tirador11.gif</foto>
+</encimera>

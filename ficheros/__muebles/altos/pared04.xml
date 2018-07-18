@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<mueble>
+    <codigo>307</codigo>
+    <tipo>Mobiliario</tipo>
+    <nombre>Arm. con hueco</nombre>
+    <descripcion>Armario de pared 60cm</descripcion>
+    <precio>70</precio> <!-- en euros !-->
+    <foto>pared04.gif</foto>
+    <altura>70</altura> <!-- en centimetros !-->
+    <distancia>145</distancia> <!-- al suelo !-->
+    <anchura>60</anchura> <!-- en centimetros !-->
+    <profundidad>37</profundidad> <!-- en centimetros !-->
+    <colorfondo>#BB9922</colorfondo>
+    <colorborde>#CCFF44</colorborde>
+    <puertas>1</puertas>
+    <tiradores>1</tiradores>
+    <dibujarpuerta/>
+</mueble>

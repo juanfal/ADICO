@@ -1,0 +1,18 @@
+
+
+<mueble>
+    <codigo>213</codigo>
+    <tipo>De suelo</tipo>
+    <nombre>80cm, 2puertas</nombre>
+    <descripcion>Armario 2 puertas, 80cm</descripcion>
+    <precio>59</precio> <!-- en euros !-->
+    <foto>2p-80cm.png</foto>
+    <altura>86</altura> <!-- en centimetros !-->
+    <anchura>80</anchura> <!-- en centimetros !-->
+    <profundidad>60</profundidad> <!-- en centimetros !-->
+    <colorfondo>#AA7744</colorfondo>
+    <necesitaencimera/>
+    <puertas>1</puertas>
+    <tiradores>1</tiradores>
+    <dibujarpuerta/>
+</mueble>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<mueble>
+    <codigo>931</codigo>
+    <tipo>Pared</tipo>
+    <nombre>Rincon.Vitri.Gira</nombre>
+    <descripcion>Vitrina rinconera giratoria 80cm</descripcion>
+    <precio>149</precio> <!-- en euros !-->
+    <foto>rinconera-vitrina-gira.png</foto>
+    <altura>70</altura> <!-- en centimetros !-->
+    <distancia>145</distancia> <!-- al suelo !-->
+    <anchura>80</anchura> <!-- en centimetros !-->
+    <profundidad>37</profundidad> <!-- en centimetros !-->
+    <colorfondo>#BB9922</colorfondo>
+    <colorborde>#CCFF44</colorborde>
+    <rinconera/>
+    <puertas>1</puertas>
+    <tiradores>1</tiradores>
+    <dibujarpuerta/>
+</mueble>

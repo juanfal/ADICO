@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<madera>
+    <codigo>811</codigo>
+    <tipo>Lacado</tipo>
+    <nombre>Tablero Iris Recto</nombre>
+    <descripcion>Lacado Color Blanco</descripcion>
+    <precio>17</precio> <!-- en euros !-->
+    <foto>madera11.gif</foto>
+</madera>

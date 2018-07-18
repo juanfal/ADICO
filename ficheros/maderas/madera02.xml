@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<madera>
+    <codigo>802</codigo>
+    <tipo>Madera</tipo>
+    <nombre>Tablero Amarillo</nombre>
+    <descripcion>Madera Pino Color Amarillo</descripcion>
+    <precio>25</precio> <!-- en euros !-->
+    <foto>madera02.gif</foto>
+</madera>

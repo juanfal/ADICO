@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<madera>
+    <codigo>803</codigo>
+    <tipo>Madera</tipo>
+    <nombre>Tablero Viena</nombre>
+    <descripcion>Madera Pino Color Natural</descripcion>
+    <precio>31</precio> <!-- en euros !-->
+    <foto>madera03.gif</foto>
+</madera>

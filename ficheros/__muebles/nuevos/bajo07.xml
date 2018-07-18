@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<mueble>
+    <codigo>207</codigo>
+    <tipo>Mobiliario</tipo>
+    <nombre>Arm. Rinconera</nombre>
+    <descripcion>Armario Rinconera</descripcion>
+    <precio>187</precio> <!-- en euros !-->
+    <foto>bajo07.gif</foto>
+    <altura>86</altura> <!-- en centimetros !-->
+    <anchura>90</anchura> <!-- en centimetros !-->
+    <profundidad>60</profundidad> <!-- en centimetros !-->
+    <colorfondo>#AA7744</colorfondo>
+    <rinconera/>
+    <necesitaencimera/>
+    <puertas>2</puertas>
+    <tiradores>2</tiradores>
+    <dibujarpuerta/>
+</mueble>

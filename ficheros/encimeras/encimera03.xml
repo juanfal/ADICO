@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<encimera>
+    <codigo>703</codigo>
+    <tipo>Granito</tipo>
+    <nombre>Encimera Verde</nombre>
+    <descripcion>Encimera Multicolor Verde</descripcion>
+    <precio>200</precio> <!-- en euros y por metro !-->
+    <foto>encimera03.gif</foto>
+</encimera>

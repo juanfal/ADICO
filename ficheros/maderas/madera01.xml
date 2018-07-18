@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<madera>
+    <codigo>801</codigo>
+    <tipo>Madera</tipo>
+    <nombre>Tablero Provenzal</nombre>
+    <descripcion>Madera Roble Color Difuminado</descripcion>
+    <precio>24</precio> <!-- en euros !-->
+    <foto>madera01.gif</foto>
+</madera>

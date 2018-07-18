@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<encimera>
+    <codigo>909</codigo>
+    <tipo>Tirador</tipo>
+    <nombre>Tirador Haya</nombre>
+    <descripcion>Tirador de haya inacabado</descripcion>
+    <precio>2.37</precio> <!-- en euros !-->
+    <foto>tirador09.gif</foto>
+</encimera>

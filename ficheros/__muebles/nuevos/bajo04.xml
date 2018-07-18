@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<mueble>
+    <codigo>204</codigo>
+    <tipo>Mobiliario</tipo>
+    <nombre>Arm. 2 puertas</nombre>
+    <descripcion>Armario encimera 2 puertas 60cm</descripcion>
+    <precio>93</precio> <!-- en euros !-->
+    <foto>bajo04.gif</foto>
+    <altura>86</altura> <!-- en centimetros !-->
+    <anchura>60</anchura> <!-- en centimetros !-->
+    <profundidad>60</profundidad> <!-- en centimetros !-->
+    <colorfondo>#AA7744</colorfondo>
+    <necesitaencimera/>
+    <puertas>2</puertas>
+    <tiradores>2</tiradores>
+    <dibujarpuerta/>
+</mueble>

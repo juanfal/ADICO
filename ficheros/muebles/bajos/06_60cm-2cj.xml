@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<mueble>
+    <codigo>204</codigo>
+    <tipo>De suelo</tipo>
+    <nombre>60cm, 2 cajones</nombre>
+    <descripcion>Cajonera 60cm, 2 cajones</descripcion>
+    <precio>194</precio> <!-- en euros !-->
+    <foto>60cm-2cj.png</foto>
+    <altura>86</altura> <!-- en centimetros !-->
+    <anchura>60</anchura> <!-- en centimetros !-->
+    <profundidad>60</profundidad> <!-- en centimetros !-->
+    <colorfondo>#AA7744</colorfondo>
+    <necesitaencimera/>
+    <puertas>1</puertas>
+    <tiradores>2</tiradores>
+    <dibujarpuerta/>
+</mueble>

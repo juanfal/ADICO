@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ventana>
+    <tipo>Ventana (60x120cm)</tipo>
+    <nombre>Ventana</nombre>
+    <!--<descripcion>Cristal incoloro 2 hojas</descripcion>!-->
+    <foto>ventana04.gif</foto>
+    <altura>60</altura> <!-- en centimetros !-->
+    <anchura>120</anchura> <!-- en centimetros !-->
+    <distancia>125</distancia> <!-- distancia al suelo, en centimetros !-->
+</ventana>

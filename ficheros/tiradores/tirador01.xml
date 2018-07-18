@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<encimera>
+    <codigo>901</codigo>
+    <tipo>Tirador</tipo>
+    <nombre>Tirador Peltre</nombre>
+    <descripcion>Perilla de peltre antiguo</descripcion>
+    <precio>2.51</precio> <!-- en euros !-->
+    <foto>tirador01.gif</foto>
+</encimera>

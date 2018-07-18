@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<encimera>
+    <codigo>912</codigo>
+    <tipo>Tirador</tipo>
+    <nombre>Tirador Arco</nombre>
+    <descripcion>Tirador con forma de arco</descripcion>
+    <precio>3.13</precio> <!-- en euros !-->
+    <foto>tirador12.gif</foto>
+</encimera>

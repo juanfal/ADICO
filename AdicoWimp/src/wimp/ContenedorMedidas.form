@@ -1,0 +1,248 @@
+<?xml version="1.1" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.6" type="org.netbeans.modules.form.forminfo.JPanelFormInfo">
+  <NonVisualComponents>
+    <Component class="javax.swing.border.SoftBevelBorder" name="softBevelBorder1">
+    </Component>
+    <Component class="javax.swing.border.SoftBevelBorder" name="softBevelBorder2">
+    </Component>
+    <Component class="javax.swing.border.SoftBevelBorder" name="softBevelBorder3">
+    </Component>
+    <Component class="javax.swing.border.EtchedBorder" name="etchedBorder1">
+    </Component>
+  </NonVisualComponents>
+  <Properties>
+    <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+      <Border info="org.netbeans.modules.form.compat2.border.SoftBevelBorderInfo">
+        <BevelBorder/>
+      </Border>
+    </Property>
+    <Property name="preferredSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
+      <Dimension value="[250, 556]"/>
+    </Property>
+  </Properties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace min="-2" pref="105" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="jButton2" alignment="1" pref="114" max="32767" attributes="1"/>
+                  <Component id="jButton1" alignment="1" pref="114" max="32767" attributes="1"/>
+              </Group>
+              <EmptySpace min="-2" pref="25" max="-2" attributes="0"/>
+          </Group>
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="jComboForma" alignment="1" pref="220" max="32767" attributes="0"/>
+                  <Component id="jLabel9" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Group type="102" alignment="0" attributes="0">
+                      <Group type="103" groupAlignment="1" attributes="0">
+                          <Group type="102" alignment="0" attributes="1">
+                              <Component id="jLabelD" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="jTextFieldD" pref="134" max="32767" attributes="1"/>
+                          </Group>
+                          <Group type="102" alignment="0" attributes="0">
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Component id="jLabelB" alignment="0" min="-2" max="-2" attributes="0"/>
+                                  <Component id="jLabelA" alignment="0" min="-2" max="-2" attributes="0"/>
+                                  <Component id="jLabelC" alignment="0" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                              <EmptySpace min="-2" pref="13" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Component id="jTextFieldC" alignment="0" pref="134" max="32767" attributes="1"/>
+                                  <Component id="jTextFieldB" pref="134" max="32767" attributes="1"/>
+                                  <Component id="jTextFieldA" alignment="0" pref="134" max="32767" attributes="1"/>
+                              </Group>
+                          </Group>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="jLabelB2" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="jLabelA2" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="jLabelC2" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="jLabelD2" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+                  <Component id="jLabel11" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="marco" alignment="0" pref="220" max="32767" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="jLabel9" min="-2" max="-2" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="jComboForma" min="-2" pref="64" max="-2" attributes="0"/>
+              <EmptySpace min="-2" pref="39" max="-2" attributes="0"/>
+              <Component id="jLabel11" min="-2" max="-2" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="marco" min="-2" max="-2" attributes="0"/>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="jLabelA" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="jTextFieldA" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="jLabelA2" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="jLabelB" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="jTextFieldB" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="jLabelB2" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="jLabelC" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="jTextFieldC" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="jLabelC2" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="jLabelD" min="-2" max="-2" attributes="0"/>
+                  <Group type="103" alignment="0" groupAlignment="3" attributes="0">
+                      <Component id="jTextFieldD" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="jLabelD2" alignment="3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+              <EmptySpace min="-2" pref="37" max="-2" attributes="0"/>
+              <Component id="jButton1" min="-2" max="-2" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="jButton2" min="-2" max="-2" attributes="0"/>
+              <EmptySpace pref="184" max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JTextField" name="jTextFieldA">
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jTextFieldAActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JTextField" name="jTextFieldB">
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jTextFieldBActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JTextField" name="jTextFieldC">
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jTextFieldCActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JTextField" name="jTextFieldD">
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jTextFieldDActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabelA">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Lado A"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabelB">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Lado B"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabelC">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Lado C"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabelD">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Lado D"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabelA2">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="cm"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabelB2">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="cm"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabelC2">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="cm"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabelD2">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="cm"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="jButton1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Aplicar"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton1ActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JComboBox" name="jComboForma">
+      <Properties>
+        <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+          <StringArray count="4">
+            <StringItem index="0" value="Item 1"/>
+            <StringItem index="1" value="Item 2"/>
+            <StringItem index="2" value="Item 3"/>
+            <StringItem index="3" value="Item 4"/>
+          </StringArray>
+        </Property>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jComboFormaActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel9">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Seleccionar forma:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="marco">
+      <Properties>
+        <Property name="horizontalAlignment" type="int" value="0"/>
+        <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+          <Border info="org.netbeans.modules.form.compat2.border.EtchedBorderInfo">
+            <EtchetBorder/>
+          </Border>
+        </Property>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel11">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Introducir dimensiones:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="jButton2">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Amueblar"/>
+        <Property name="enabled" type="boolean" value="false"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton2ActionPerformed"/>
+      </Events>
+    </Component>
+  </SubComponents>
+</Form>

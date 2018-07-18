@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<encimera>
+    <codigo>712</codigo>
+    <tipo>Cuarzo</tipo>
+    <nombre>Encimera Naranja</nombre>
+    <descripcion>Encimera de cuarzo Naranja Fuego</descripcion>
+    <precio>310</precio> <!-- en euros y por metro !-->
+    <foto>encimera12.gif</foto>
+</encimera>

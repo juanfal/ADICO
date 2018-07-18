@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<encimera>
+    <codigo>708</codigo>
+    <tipo>Cuarzo</tipo>
+    <nombre>Encimera Rubí</nombre>
+    <descripcion>Encimera de cuarzo Rubí</descripcion>
+    <precio>295</precio> <!-- en euros y por metro !-->
+    <foto>encimera08.gif</foto>
+</encimera>

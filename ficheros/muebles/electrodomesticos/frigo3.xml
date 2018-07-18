@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+    Document   : nevera1.xml
+    Created on : 15 de abril de 2008, 17:23
+    Author     : kans
+    Description:
+        Purpose of the document follows.
+-->
+
+<mueble>
+    <codigo>842</codigo>
+    <tipo>(Electrodoméstico)</tipo>
+    <nombre>Frigo 100cm</nombre>
+    <descripcion>Frigo de 2 puertas laterales</descripcion>
+    <precio>480</precio> <!-- en euros !-->
+    <foto>frigo3-2puertas-laterales.png</foto>
+    <dibujo>frigo3a.png</dibujo>
+    <altura>180</altura> <!-- en centimetros !-->
+    <anchura>100</anchura> <!-- en centimetros !-->
+    <profundidad>80</profundidad> <!-- en centimetros !-->
+</mueble>

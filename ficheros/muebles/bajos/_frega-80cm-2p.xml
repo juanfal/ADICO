@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<mueble>
+    <codigo>207</codigo>
+    <tipo>De suelo</tipo>
+    <nombre>Fregadero 80cm</nombre>
+    <descripcion>Fregadero 80cm, con 2 puertas</descripcion>
+    <precio>180</precio> <!-- en euros !-->
+    <foto>_frega-80cm-2p.png</foto>
+    <dibujo>fregadero.gif</dibujo>
+    <altura>86</altura> <!-- en centimetros !-->
+    <anchura>80</anchura> <!-- en centimetros !-->
+    <profundidad>60</profundidad> <!-- en centimetros !-->
+    <colorfondo>#AA7744</colorfondo>
+    <puertas>2</puertas>
+    <tiradores>2</tiradores>
+    <!-- <dibujarpuerta/> !-->
+</mueble>
